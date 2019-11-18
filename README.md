@@ -1,6 +1,6 @@
 # 3D models of [Bust of Dr. W.S. Clark](https://www.global.hokudai.ac.jp/dhu/page/Clark.html)
 
-![image of the bust of clark](https://user-images.githubusercontent.com/10989985/68650682-ef6f2e00-0568-11ea-8c90-58db499c140b.jpg)
+![image of the bust of clark](https://github.com/Tsurumiya/Clark_3D/blob/master/clark_image.png)
 
 Including PLY, OBJ and FBX file.
 
