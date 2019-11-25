@@ -7,4 +7,4 @@ Including PLY, OBJ and FBX formats.
 Based on MURAHASHI Kuriki's [Pointclouds of the bust of Clark](https://github.com/mkuriki1990/pointclouds_clark).
 
 ## License
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.ja)
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)
